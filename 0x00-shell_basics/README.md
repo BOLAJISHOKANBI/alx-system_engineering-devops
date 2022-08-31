@@ -13,3 +13,4 @@ with user and group IDs displayed numerically
 
 #5-listfilesdigitonly is a script Display current directory contents in long format and hidden files and also user and group ID
 #6-firstdirectory is a script which creates a directory named my_first_directory in the /tmp/ directory.
+#7-movethatfile is a script that moves a file 'betty' into a folder 'my_first_directory' in the tmp directory
