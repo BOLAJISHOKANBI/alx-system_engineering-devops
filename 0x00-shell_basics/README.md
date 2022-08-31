@@ -12,3 +12,4 @@ Long format
 with user and group IDs displayed numerically
 
 #5-listfilesdigitonly is a script Display current directory contents in long format and hidden files and also user and group ID
+#6-firstdirectory is a script which creates a directory named my_first_directory in the /tmp/ directory.
