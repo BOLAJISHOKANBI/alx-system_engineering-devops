@@ -19,3 +19,4 @@ with user and group IDs displayed numerically
 #10-back is a script which changes back to the previous directory
 #11-lists is a script which that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory
 #12-file_type is a script which prints the type of the file 
+#13-symbolic_link is a script that Create a symbolic link 
