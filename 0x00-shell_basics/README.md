@@ -15,3 +15,4 @@ with user and group IDs displayed numerically
 #6-firstdirectory is a script which creates a directory named my_first_directory in the /tmp/ directory.
 #7-movethatfile is a script that moves a file 'betty' into a folder 'my_first_directory' in the tmp directory
 #8-firstdelete  is a script that deletes a file 'betty' from a folder my_first_directory
+#9-firstdirdeletion is a script for deleting a folder 'my_first_directory'
