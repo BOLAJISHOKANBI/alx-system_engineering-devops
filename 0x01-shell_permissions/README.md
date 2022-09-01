@@ -4,3 +4,4 @@
 #3 : A script that changes owner of a file
 #4 : A script that creates an empty file
 #5 : A script that executes permission to a file
+#6 : A script that execute permission to the owner and the group owner, and read permission to other users, to the file hello.
