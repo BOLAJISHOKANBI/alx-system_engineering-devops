@@ -7,3 +7,4 @@
 #6 : A script that execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 #7 : A script that adds execution permission to the owner, the group owner and the other users, to the file hello without adding commas
 #8 : A script that sets the permission to the file hello as no permission to owner and group, but permits other users
+#9 : A script that sets the mode of file to rwxr-x-wx
