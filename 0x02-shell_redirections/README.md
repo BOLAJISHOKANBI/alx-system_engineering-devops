@@ -5,3 +5,4 @@
 #4 : A script that prints the last 10 lines of a file
 #5 : A script that prints first 10 lines of a file
 #6 : A script that prints the 3 line of a file
+#7 : A script that inputs Best School to the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
