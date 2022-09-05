@@ -3,3 +3,4 @@
 #2 : A script that displays the content of a file /etc/passwd
 #3 : A script that displays contents of two files
 #4 : A script that prints the last 10 lines of a file
+#5 : A script that prints first 10 lines of a file
