@@ -3,3 +3,4 @@
 #12 : A script that prints newest lines in a file
 #13 : A script that takes a list of words as input and prints only words that appear exactly once
 #14 : A script that Display lines containing the pattern “root” from the file /etc/passwd
+#15 : A script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd
