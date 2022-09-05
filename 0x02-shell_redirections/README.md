@@ -7,3 +7,4 @@
 #6 : A script that prints the 3 line of a file
 #7 : A script that inputs Best School to the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 #8 : A script that writes the state of the working directory to a file
+#9 : A script that duplicates last line within a file
