@@ -10,3 +10,4 @@
 #19 : A script that Replace all characters A and c from input to Z and e respectively.
 #20 : A script that that removes all letters c and C from input
 #21 : A script that reverse it input
+#22 : A script that displays all users and their home directories, sorted by users
