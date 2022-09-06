@@ -2,3 +2,4 @@
 #1 : A script that prints hello user user=$USER
 #2 : A script that adds a directory to PATH
 #3 : A script that counts the number of directories in the PATH
+#4 : A script that lists environment variables
