@@ -14,3 +14,4 @@
 #13: A script that prints a number with two decimal places, followed by a new line.
 #100: A script that converts a number from base 10 to base 16.
 #101: A script that encodes and decodes text using the rot13 encryption.
+#102: A script that prints every other line from the input, starting with the first line.
